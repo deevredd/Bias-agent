@@ -1,0 +1,15 @@
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+imbalanced-learn
+ctgan
+fastapi
+uvicorn
+streamlit
+plotly
+python-multipart
+pytest
+reportlab
+kaleido
